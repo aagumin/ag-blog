@@ -1,0 +1,4 @@
+languageCode = 'en-us'
+theme = 'Qubt'
+baseURL  ='https://username.github.io/qubt'
+title  ='Blog'

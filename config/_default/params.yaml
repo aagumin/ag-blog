@@ -1,0 +1,29 @@
+############################
+## Author
+############################
+
+author:
+  name: "Arsen Gumin"
+  image: author.jpeg
+  greeting: "A personal dev,data,ml blog :evergreen_tree:"
+  icon: ":wave:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/aagumin
+  - facebook: https://facebook.com/mea
+  - telegram: https://t.me/arsengumin
+  - email: gumin@live.ru
+ 
+
+###############################
+## OpenGraph & Twitter Cards
+###############################:wq::
+
+title: "Qubt Theme"
+description: "Demo site build with Qubt & Hugo"
+images:
+  - thumbnail.jpeg
